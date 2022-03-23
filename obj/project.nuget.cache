@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6QN8tYYTC28oO9LH480Gcg5lzoCjvfybIEnPSwVQKTS4JvROh0qO8Dp6h2Saz/0CfS9a158jA67+48LgKy847A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AndreLuiz\\source\\repos\\Estoque\\Estoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AndreLuiz\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\AndreLuiz\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\AndreLuiz\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\AndreLuiz\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\AndreLuiz\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\AndreLuiz\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\AndreLuiz\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
