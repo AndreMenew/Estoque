@@ -36,3 +36,4 @@ C:\Users\AndreLuiz\source\repos\Estoque\bin\Debug\net7.0-windows\runtimes\win-x6
 C:\Users\AndreLuiz\source\repos\Estoque\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\AndreLuiz\source\repos\Estoque\obj\Debug\net7.0-windows\Estoque.FrmMain.resources
 C:\Users\AndreLuiz\source\repos\Estoque\obj\Debug\net7.0-windows\Estoque.Resource.resources
+C:\Users\AndreLuiz\source\repos\Estoque\obj\Debug\net7.0-windows\Estoque.Domain.Views.ViewProdutos.resources

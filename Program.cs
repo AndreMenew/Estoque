@@ -1,3 +1,4 @@
+global using static Estoque.Domain.Tools.Utils;
 using Estoque.Domain.MVC.Dao;
 
 namespace Estoque

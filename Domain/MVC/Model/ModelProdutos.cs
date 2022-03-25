@@ -11,6 +11,7 @@ namespace Estoque.Domain.MVC.Model
 		public string Descricao { get; set; }
 		public string Ean { get; set; }
 		public decimal PrecoCusto { get; set; }
+		public decimal Margem { get; set; }
 		public decimal PrecoVenda { get; set; }
 		public int IdFornecedor { get; set; }
 	}

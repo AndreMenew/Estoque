@@ -17,7 +17,7 @@ namespace Estoque.Domain.MVC.Controls
 			var lista = new List<ModelProdutos>();
 			using (var dao = new Dao.DaoConnection())
 			{
-				lista = await dao.Connection.QueryAsync<ModelProdutos>("Select * from Produtos");
+				lista = await dao.Connection.QueryAsync<ModelProdutos>("SELECT * FROM Produtos");
 			}
 
 			return lista;
@@ -29,6 +29,17 @@ namespace Estoque.Domain.MVC.Controls
 			{
 				await dao.Connection.UpdateAsync(produtos);
 			}
+		}
+
+		internal async static Task<ModelProdutos?> PegarProduto(int idProduto)
+		{
+			var lista = new List<ModelProdutos>();
+			using (var dao = new Dao.DaoConnection())
+			{
+				lista = await dao.Connection.QueryAsync<ModelProdutos>("SELECT * FROM Produtos WHERE Id = ?", idProduto);
+			}
+
+			return lista.FirstOrDefault();
 		}
 	}
 }
